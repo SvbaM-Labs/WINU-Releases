@@ -1,25 +1,22 @@
 <div align="center">
 
-# 🖥️ WINU Desktop
+<br>
 
-### Descarga la última versión de WINU para Windows
+<img src="https://img.shields.io/badge/WINU-Desktop-0078D4?style=flat-square&logo=windows11&logoColor=white&labelColor=0a0a0a" alt="WINU" height="32" />
 
----
+<br><br>
 
-## 📦 Última versión: `v1.1.0`
+<sup>v1.1.1 · Windows x64</sup>
 
-<a href="https://github.com/SvbaM-Labs/WINU-Releases/releases/download/v1.1.0/WINU_1.1.0_x64-setup.exe">
-  <img src="https://img.shields.io/badge/⬇_Descargar_WINU_v1.1.0-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar" />
-</a>
+<br><br>
 
----
+<a href="https://github.com/SvbaM-Labs/WINU-Releases/releases/download/v1.1.1/WINU_1.1.1_x64-setup.exe"><img src="https://img.shields.io/badge/⬇_Instalador-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Instalador" /></a>
+<a href="https://github.com/SvbaM-Labs/WINU-Releases/releases/download/v1.1.1/WINU_portable.exe"><img src="https://img.shields.io/badge/⬇_Portable-1a1a2e?style=for-the-badge&logo=windows&logoColor=white" alt="Portable" /></a>
 
-| Archivo | Tamaño |
-|---------|--------|
-| [`WINU_1.1.0_x64-setup.exe`](https://github.com/SvbaM-Labs/WINU-Releases/releases/download/v1.1.0/WINU_1.1.0_x64-setup.exe) | Instalador Windows x64 |
+<br><br>
 
----
+<sub><a href="https://github.com/SvbaM-Labs/WINU-Releases/releases">Ver versiones anteriores</a></sub>
 
-📋 [Ver todas las versiones](https://github.com/SvbaM-Labs/WINU-Releases/releases)
+<br>
 
 </div>
